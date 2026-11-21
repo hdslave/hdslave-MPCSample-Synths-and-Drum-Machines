@@ -19,7 +19,7 @@ clone.
 [Melodee](https://github.com/keremimo/melodee-sample) by Kerem Kiliç (Ellic Studio), the groovebox that runs on the
 MPC Sample and hosts the plug-ins below. It gives the MPC's processor less wasted work and plays
 the same, to the bit; it adds CPU speed, Refresh, Dim after and Pad brightness settings, the MONO and HDSLAVE
-palettes (HDSLAVE is the one a new card starts in), and a screen extension that all eight plug-ins below use to draw
+palettes (HDSLAVE is the one a new card starts in), and a screen extension that all nine plug-ins below use to draw
 their own pages. It wakes a sleeping plug-in when one of its knobs is turned,
 and its master compressor's Sidechain can be keyed by a plug-in's second output (Foundry's SC Key: the kick alone).
 
@@ -43,6 +43,7 @@ plug-ins). It is AGPL-3.0, as Melodee is.
 | [Foundry](https://github.com/hdslave/hdslave-Foundry-Drum-Machine) | A sixteen-voice drum machine in the style of the 808, 909 and 606, with TR-1000-style controls per voice, 606 mod controls, kick side chain, reverb, delay and bus compressor. Its X0X Drum Works page shows the pad layout and the last two seconds of drum hits. |
 | [Anvil](https://github.com/hdslave/hdslave-Anvil-Synth) | An 8-step analog-style percussion synthesizer (DFAM/Edge panel and flow) with one new control, VCO EG > FM 1-2 Amt |
 | [MoonBass](https://github.com/hdslave/hdslave-MoonBass-Synth) | An analog-style kick drum synthesizer (ModBase 09 Mk I/II and MBase 11 style), every parameter on Melodee's Edit pages, with its own Orbital Impact page in hdslaveOS |
+| [Mystik](https://github.com/hdslave/hdslave-Mystik-Synth) | A west-coast hand drum: a membrane of nine bodies (tabla to iron bell) and a complex oscillator, struck by a hand with eight strokes through a modelled Buchla-style vactrol low-pass gate, played by its own six-mode sequencer (Pattern, Euclid, Turing, Automaton, Bounce and 14 traditional Rhythm timelines) with 303-style accents and slides, through four very cheap effects. Its own pages show the vactrol's light as an orb, the ring of steps and a phosphor scope, with an editor for each step and a view of each sequencer mode at work. |
 
 ## Effects
 

@@ -34,3 +34,7 @@
 	path = Machine
 	url = https://github.com/hdslave/hdslave-Machine.git
 	branch = main
+[submodule "Mystik"]
+	path = Mystik
+	url = https://github.com/hdslave/hdslave-Mystik-Synth.git
+	branch = main
