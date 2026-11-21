@@ -26,3 +26,11 @@
 	path = hdslaveOS
 	url = https://github.com/hdslave/hdslaveOS.git
 	branch = hdslave
+[submodule "Cortex-Filter"]
+	path = Cortex-Filter
+	url = https://github.com/hdslave/hdslave-Cortex-Filter.git
+	branch = main
+[submodule "Machine"]
+	path = Machine
+	url = https://github.com/hdslave/hdslave-Machine.git
+	branch = main
