@@ -20,7 +20,7 @@ clone.
 MPC Sample and hosts the plug-ins below. It gives the MPC's processor less wasted work and plays
 the same, to the bit; it adds CPU speed, Refresh, Dim after and Pad brightness settings, the MONO and HDSLAVE
 palettes (HDSLAVE is the one a new card starts in), and a screen page a CLAP plug-in can draw itself, which Anvil,
-TB-MPC-3-P-0, Machine and Cortex Filter use. It wakes a sleeping plug-in when one of its knobs is turned.
+TB-MPC-3-P-0, Machine, Cortex Filter and Necronomicon use. It wakes a sleeping plug-in when one of its knobs is turned.
 
 Build it with its own `./build.sh` (its README has the details). Its packages are unsigned and are installed by
 hand: it keeps Melodee's folders on the card (`autorun/melodee`, and `Melodee/` for projects, samples and
@@ -33,7 +33,7 @@ plug-ins). It is AGPL-3.0, as Melodee is.
 | [TB-MPC-3-P-0](https://github.com/hdslave/TB-MPC-3-P-0-Synthesizer) | A 303-style bass synthesizer played by a port of TB-3PO, the random acid-pattern sequencer of the Ornament & Crime Hemisphere firmware |
 | [Psychic](https://github.com/hdslave/hdslave-Psychic-Synth) | A generative analog-style synthesizer (Labyrinth panel and flow) with two corruptible 8-bit sequencers |
 | [Machine](https://github.com/hdslave/hdslave-Machine) | A multi-machine synthesizer in the style of Elektron's machines: a four-operator FM voice, seven drum machines, an eight-slot KIT, eight stranger voices and a resonator kick, with its own page on the MPC's screen |
-| [Necronomicon](https://github.com/hdslave/hdslave-Necronomicon-Synth) | A polyrhythmic subharmonic synthesizer (Subharmonicon panel and flow): two VCOs with two subharmonics each, two 4-step sequencers, four rhythm generators |
+| [Necronomicon](https://github.com/hdslave/hdslave-Necronomicon-Synth) | A polyrhythmic subharmonic synthesizer (Subharmonicon panel and flow) with two VCOs, two subharmonics per VCO and two 4-step sequencers. Its Liquid Light screen shows the phase and routing of all four rhythm generators. |
 
 ## Drums and percussion
 
@@ -55,8 +55,8 @@ Each folder's README covers that plug-in's controls, presets, sources, tests and
 
 Each plug-in is one `.clap` file. Copy it to the card as `Melodee/Plugins/hdslave NAME/hdslave NAME.clap` (for
 example `Melodee/Plugins/hdslave Anvil/hdslave Anvil.clap`), then pick it on an empty track: Stage, Plugin,
-hdslave NAME. They load in any Melodee; in hdslaveOS, Anvil, TB-MPC-3-P-0, Machine and Cortex Filter draw their own page in place of the
-parameter list, and a sleeping plug-in hears a knob turned on the MPC.
+hdslave NAME. They load in any Melodee. In hdslaveOS, Anvil, TB-MPC-3-P-0, Machine, Cortex Filter and Necronomicon
+draw their own page in place of the parameter list, and a sleeping plug-in hears a knob turned on the MPC.
 
 ## Build
 
