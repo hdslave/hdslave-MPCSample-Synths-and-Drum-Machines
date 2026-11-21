@@ -31,7 +31,7 @@ plug-ins). It is AGPL-3.0, as Melodee is.
 
 | Plug-in | What it is |
 | --- | --- |
-| [TB-MPC-3-P-0](https://github.com/hdslave/TB-MPC-3-P-0-Synthesizer) | A 303-style bass synthesizer played by a port of TB-3PO, the random acid-pattern sequencer of the Ornament & Crime Hemisphere firmware |
+| [TB-MPC-3-P-0](https://github.com/hdslave/TB-MPC-3-P-0-Synthesizer) | A 303-style bass synthesizer played by a port of TB-3PO, the random acid-pattern sequencer of the Ornament & Crime Hemisphere firmware. Its Press Plate screen shows each step's note, gate, accent and slide, with a Blacklight Transfer theme one press away. |
 | [Psychic](https://github.com/hdslave/hdslave-Psychic-Synth) | A generative analog-style synthesizer (Labyrinth panel and flow) with two corruptible 8-bit sequencers. Its Contact Sheet screen compares saved and live steps and lets you edit each gate and voltage. |
 | [Machine](https://github.com/hdslave/hdslave-Machine) | A multi-machine synthesizer in the style of Elektron's machines: a four-operator FM voice, seven drum machines, an eight-slot KIT, eight stranger voices and a resonator kick, with its own page on the MPC's screen |
 | [Necronomicon](https://github.com/hdslave/hdslave-Necronomicon-Synth) | A polyrhythmic subharmonic synthesizer (Subharmonicon panel and flow) with two VCOs, two subharmonics per VCO and two 4-step sequencers. Its Liquid Light screen shows the phase and routing of all four rhythm generators. |
