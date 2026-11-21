@@ -20,7 +20,8 @@ clone.
 MPC Sample and hosts the plug-ins below. It gives the MPC's processor less wasted work and plays
 the same, to the bit; it adds CPU speed, Refresh, Dim after and Pad brightness settings, the MONO and HDSLAVE
 palettes (HDSLAVE is the one a new card starts in), and a screen page a CLAP plug-in can draw itself, which Anvil,
-TB-MPC-3-P-0, Machine, Cortex Filter and Necronomicon use. It wakes a sleeping plug-in when one of its knobs is turned.
+TB-MPC-3-P-0, Machine, Cortex Filter, Necronomicon, MoonBass and Psychic use. It wakes a sleeping plug-in when one of its knobs is turned,
+and its master compressor's Sidechain can be keyed by a plug-in's second output (Foundry's SC Key: the kick alone).
 
 Build it with its own `./build.sh` (its README has the details). Its packages are unsigned and are installed by
 hand: it keeps Melodee's folders on the card (`autorun/melodee`, and `Melodee/` for projects, samples and
@@ -41,7 +42,7 @@ plug-ins). It is AGPL-3.0, as Melodee is.
 | --- | --- |
 | [Foundry](https://github.com/hdslave/hdslave-Foundry-Drum-Machine) | A sixteen-voice drum machine in the style of the 808, 909 and 606: TR-1000-style controls per voice, 606 mod controls, kick side chain, reverb, delay and bus compressor |
 | [Anvil](https://github.com/hdslave/hdslave-Anvil-Synth) | An 8-step analog-style percussion synthesizer (DFAM/Edge panel and flow) with one new control, VCO EG > FM 1-2 Amt |
-| [MoonBass](https://github.com/hdslave/hdslave-MoonBass-Synth) | An analog-style kick drum synthesizer (ModBase 09 Mk I/II and MBase 11 style), every parameter on Melodee's Edit pages |
+| [MoonBass](https://github.com/hdslave/hdslave-MoonBass-Synth) | An analog-style kick drum synthesizer (ModBase 09 Mk I/II and MBase 11 style), every parameter on Melodee's Edit pages, with its own Orbital Impact page in hdslaveOS |
 
 ## Effects
 
@@ -55,8 +56,8 @@ Each folder's README covers that plug-in's controls, presets, sources, tests and
 
 Each plug-in is one `.clap` file. Copy it to the card as `Melodee/Plugins/hdslave NAME/hdslave NAME.clap` (for
 example `Melodee/Plugins/hdslave Anvil/hdslave Anvil.clap`), then pick it on an empty track: Stage, Plugin,
-hdslave NAME. They load in any Melodee. In hdslaveOS, Anvil, TB-MPC-3-P-0, Machine, Cortex Filter and Necronomicon
-draw their own page in place of the parameter list, and a sleeping plug-in hears a knob turned on the MPC.
+hdslave NAME. They load in any Melodee. In hdslaveOS, Anvil, TB-MPC-3-P-0, Machine, Cortex Filter, Necronomicon,
+MoonBass and Psychic draw their own page in place of the parameter list, and a sleeping plug-in hears a knob turned on the MPC.
 
 ## Build
 
