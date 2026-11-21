@@ -48,7 +48,7 @@ plug-ins). It is AGPL-3.0, as Melodee is.
 
 | Plug-in | What it is |
 | --- | --- |
-| [Cortex Filter](https://github.com/hdslave/hdslave-Cortex-Filter) | A stereo 3D morphing filter in the style of the filter-cube morphing filters, with the cube and its response drawn in 3D on the MPC's screen |
+| [Cortex Filter](https://github.com/hdslave/hdslave-Cortex-Filter) | A stereo 3D morphing filter in the style of the filter-cube morphing filter modules: a bank of 64 filters (a cube with its own offsets, gains, fades, levels and distortion) and a filter sequencer stepped by clocks on the song's grid, the input's envelope or the page. The cube and its response are drawn in 3D on the MPC's screen, with pages to edit filters and program sequences. |
 
 Each folder's README covers that plug-in's controls, presets, sources, tests and cost.
 
