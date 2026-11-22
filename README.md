@@ -57,9 +57,9 @@ Each folder's README covers that plug-in's controls, presets, sources, tests and
 
 ## On the MPC
 
-Each plug-in is one `.clap` file. Copy it to the card as `Melodee/Plugins/hdslave NAME/hdslave NAME.clap` (for
-example `Melodee/Plugins/hdslave Anvil/hdslave Anvil.clap`), then pick it on an empty track: Stage, Plugin,
-hdslave NAME. They load in any Melodee. In hdslaveOS, open Edit or Stage's plug-in page to see the instrument or
+Each plug-in is one `.clap` file. Copy it to the card as `Melodee/Plugins/hdslave/hdslave NAME.clap` (for
+example `Melodee/Plugins/hdslave/hdslave Anvil.clap`): all of them in one `hdslave` folder, which the picker shows as
+one folder. Then pick it on an empty track: Stage, Plugin, hdslave, hdslave NAME. They load in any Melodee. In hdslaveOS, open Edit or Stage's plug-in page to see the instrument or
 effect's own screen. Turning a knob on the MPC wakes a sleeping plug-in.
 
 ## Build
