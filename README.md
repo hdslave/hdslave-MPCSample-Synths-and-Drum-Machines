@@ -86,7 +86,7 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
     <td>
       <h3><a href="https://github.com/hdslave/hdslave-Reverie-Synth">Reverie</a></h3>
       <p><strong>Chord-progression &amp; X/Y Motion pad synthesizer.</strong></p>
-      <p>46 jazzy, soulful, R&amp;B, and neo-soul progressions played straight from the MPC pads, voiced and voice-led across six styles in any key — with progressions and patches selected independently. Dual morphing wavetable oscillators with unison, drift, and Korg M3-inspired <b>Motion</b> paths feed ensemble, tempo delay, and shimmer reverb across six Frutiger Aero pages.</p>
+      <p>208 chord progressions taken from the factory pad chord sets of Korg's M3 workstation and Pioneer DJ's TORAIZ SQUID sequencer, played straight from the MPC pads, every chord named from its own notes, voiced and voice-led across six styles in any key — with progressions and patches selected independently. Dual morphing wavetable oscillators with unison, drift, and Korg M3-inspired <b>Motion</b> paths feed ensemble, tempo delay, and shimmer reverb across six Frutiger Aero pages.</p>
     </td>
   </tr>
   <tr>
@@ -196,4 +196,4 @@ Submodule folders stay at their pinned commits until updated. Run `tools/update.
 
 ## Trademarks
 
-Product names mentioned here are trademarks of their respective owners (Roland, Moog Music, Behringer, Jomox, Elektron, Korg, E-mu, Rossum Electro-Music, Mutable Instruments, inMusic Brands). These projects are not affiliated with or endorsed by any of them, nor are they official Melodee releases.
+Product names mentioned here are trademarks of their respective owners (Roland, Moog Music, Behringer, Jomox, Elektron, Korg, Pioneer DJ / AlphaTheta, E-mu, Rossum Electro-Music, Mutable Instruments, inMusic Brands). These projects are not affiliated with or endorsed by any of them, nor are they official Melodee releases.
