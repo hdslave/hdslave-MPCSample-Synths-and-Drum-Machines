@@ -19,7 +19,7 @@ clone.
 [Melodee](https://github.com/keremimo/melodee-sample) by Kerem Kiliç (Ellic Studio), the groovebox that runs on the
 MPC Sample and hosts the plug-ins below. It gives the MPC's processor less wasted work and plays
 the same, to the bit; it adds CPU speed, Refresh, Dim after and Pad brightness settings, the MONO and HDSLAVE
-palettes (HDSLAVE is the one a new card starts in), and a screen extension that all ten plug-ins below use to draw
+palettes (HDSLAVE is the one a new card starts in), and a screen extension that all eleven plug-ins below use to draw
 their own pages. It wakes a sleeping plug-in when one of its knobs is turned,
 and its master compressor's Sidechain can be keyed by a plug-in's second output (Foundry's SC Key: the kick alone).
 
@@ -35,6 +35,7 @@ plug-ins). It is AGPL-3.0, as Melodee is.
 | [Psychic](https://github.com/hdslave/hdslave-Psychic-Synth) | A generative analog-style synthesizer (Labyrinth panel and flow) with two corruptible 8-bit sequencers. Its Contact Sheet screen compares saved and live steps and lets you edit each gate and voltage. |
 | [Machine](https://github.com/hdslave/hdslave-Machine) | A multi-machine synthesizer in the style of Elektron's machines: a four-operator FM voice, seven drum machines, an eight-slot KIT, eight stranger voices and a resonator kick, with its own page on the MPC's screen |
 | [Nexus](https://github.com/hdslave/hdslave-Nexus-Synth) | Mutable Instruments Plaits' 24 macro-oscillator models (its own open-source code) as an eight-voice polyphonic synthesizer: mono, poly and legato with unison, two ADSRs, a retrigger rate, two LFOs, a cycling envelope, a random source, a filter, fixed modulation routes and a 4 x 4 assign matrix, with Melodee's Slide and Tie. Its seven acid-rave pages pair the model banks with a live scope and show voice activity, filter response, envelopes, LFOs and both modulation matrices. [Watch the screen tour](https://github.com/hdslave/hdslave-Nexus-Synth/blob/63c5e6b3245136e8663908a4c1fae78ee22acaf2/docs/nexus-pages.gif). |
+| [Reverie](https://github.com/hdslave/hdslave-Reverie-Synth) | A pad and chord synthesizer whose pads play chord progressions: 46 jazzy, soulful, R&B and neo-soul progressions, voiced and voice-led in six styles and moved to any key, with the progression and the sound picked separately. Two morphing wavetable oscillators with unison, drift and air, and Motion, an X / Y path that moves the sound with each note of a chord at its own place on it (after the MOTION of Korg's M3); ensemble, tempo delay and a shimmering reverb, with its own page on the MPC's screen. |
 | [Necronomicon](https://github.com/hdslave/hdslave-Necronomicon-Synth) | A polyrhythmic subharmonic synthesizer (Subharmonicon panel and flow) with two VCOs, two subharmonics per VCO and two 4-step sequencers. Its Liquid Light screen shows the phase and routing of all four rhythm generators. |
 
 ## Drums and percussion

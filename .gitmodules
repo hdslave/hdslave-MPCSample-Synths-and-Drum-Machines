@@ -42,3 +42,7 @@
 	path = Nexus
 	url = https://github.com/hdslave/hdslave-Nexus-Synth.git
 	branch = main
+[submodule "Reverie"]
+	path = Reverie
+	url = https://github.com/hdslave/hdslave-Reverie-Synth.git
+	branch = main
