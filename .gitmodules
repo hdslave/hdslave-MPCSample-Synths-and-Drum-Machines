@@ -38,3 +38,7 @@
 	path = Mystik
 	url = https://github.com/hdslave/hdslave-Mystik-Synth.git
 	branch = main
+[submodule "Nexus"]
+	path = Nexus
+	url = https://github.com/hdslave/hdslave-Nexus-Synth.git
+	branch = main
