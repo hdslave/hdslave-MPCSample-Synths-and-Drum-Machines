@@ -10,6 +10,8 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 
 <sub>Already cloned without <code>--recurse-submodules</code>? Run <code>git submodule update --init</code> inside the folder.</sub>
 
+> **Desktop (macOS & Windows):** Want to run all 11 plug-ins on your computer in FL Studio or another CLAP host with expanded high-resolution control panels and MIDI Learn? See [**hdslave-Synths-and-drum-machines-Mac-Win**](https://github.com/hdslave/hdslave-Synths-and-drum-machines-Mac-Win).
+
 ---
 
 ## hdslaveOS
