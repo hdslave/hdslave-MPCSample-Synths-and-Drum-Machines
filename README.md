@@ -21,11 +21,11 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/hdslave/hdslaveOS"><img src="docs/previews/hdslave-theme.png" alt="hdslaveOS HDSLAVE purple flare dark theme" width="400"></a><br>
+      <a href="https://github.com/hdslave/hdslaveOS"><img src="docs/previews/hdslave-theme.png" alt="hdslaveOS HDSLAVE purple flare theme on the Palette, Tracks, Step Edit, and Deep Freeze screens" width="400"></a><br>
       <sub><b>HDSLAVE</b> — default static purple flare on black</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/hdslave/hdslaveOS"><img src="docs/previews/hdslave-mono-theme.png" alt="hdslaveOS MONO black-and-white dark theme" width="400"></a><br>
+      <a href="https://github.com/hdslave/hdslaveOS"><img src="docs/previews/hdslave-mono-theme.png" alt="hdslaveOS MONO black-and-white dark palette across 16 screens" width="400"></a><br>
       <sub><b>MONO</b> — high-contrast black-and-white dark mode</sub>
     </td>
   </tr>
