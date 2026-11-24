@@ -8,7 +8,7 @@ Each instrument, effect, and OS lives in its own repository and is pinned here a
 git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synths-and-Drum-Machines.git
 ```
 
-<sub>Already cloned without <code>--recurse-submodules</code>? Run <code>git submodule update --init</code> inside the folder.</sub>
+<sub>Already cloned without <code>--recurse-submodules</code>? Run <code>git submodule update --init --recursive</code> inside the folder.</sub>
 
 > **Desktop CLAP builds (macOS & Windows):** Every plug-in repository below includes both its MPC Sample version and a separate desktop CLAP build in its `mac-clap/` folder (all MPC screens on one interactive panel + MIDI Learn). Releases stay MPC Sample-only for now while the desktop builds are being finalized.
 
@@ -16,7 +16,7 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 
 ## hdslaveOS
 
-[**hdslaveOS**](https://github.com/hdslave/hdslaveOS) (formerly `melodee-hdslave`) is hdslave's performance-tuned fork of [Melodee](https://github.com/keremimo/melodee-sample) by Kerem Kiliç (Ellic Studio), tracking Melodee v0.6.4. It cuts idle CPU and display overhead while staying bit-identical in audio, and powers the custom plug-in screens shown below.
+[**hdslaveOS**](https://github.com/hdslave/hdslaveOS) (formerly `melodee-hdslave`) is hdslave's performance-tuned fork of [Melodee](https://github.com/keremimo/melodee-sample) by Kerem Kiliç (Ellic Studio), tracking Melodee v0.7.1. It cuts idle CPU and display overhead while staying bit-identical in audio, and powers the custom plug-in screens shown below. Download the unsigned OS package and its matching MPC plug-in bundle from the [hdslaveOS v0.7.1-hdslave.13 release](https://github.com/hdslave/hdslaveOS/releases/tag/v0.7.1-hdslave.13).
 
 <table>
   <tr>
@@ -32,7 +32,7 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 </table>
 
 - **Efficiency & power**: Less wasted work on the MPC Sample's Cortex-A55, plus **CPU speed**, **Refresh**, **Dim after**, and **Pad brightness** controls.
-- **Custom plug-in screens**: Implements `com.hdslave.melodee.screen/1` so all eleven plug-ins below render animated, interactive pages on Edit and Stage.
+- **Custom plug-in screens**: Uses Melodee 0.7’s `melodee.screen/1` extension. The synths and drum machines have interactive Edit and Stage pages, and Cortex Filter also has an FX rack strip.
 - **Playability**: Wakes sleeping plug-ins when you turn a knob, keys the master compressor's Sidechain from a plug-in's second output (Foundry's kick-only **SC Key**), steps a bar at a time with **SHIFT + encoder** on Step Edit, and lights kit pads more vividly.
 - **Non-destructive**: Runs from the microSD card (`autorun/melodee` and `Melodee/`), licensed AGPL-3.0 like Melodee. See [hdslaveOS/README.md](https://github.com/hdslave/hdslaveOS) for build and install details.
 
