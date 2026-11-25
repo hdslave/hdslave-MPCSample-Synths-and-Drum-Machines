@@ -18,14 +18,16 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 
 [**hdslaveOS**](https://github.com/hdslave/hdslaveOS) (formerly `melodee-hdslave`) is hdslave's performance-tuned fork of [Melodee](https://github.com/keremimo/melodee-sample) by Kerem Kiliç (Ellic Studio), tracking Melodee v0.7.1. It cuts idle CPU and display overhead while staying bit-identical in audio, and powers the custom plug-in screens shown below. Download the unsigned OS package and its matching MPC plug-in bundle from the [hdslaveOS v0.7.1-hdslave.13 release](https://github.com/hdslave/hdslaveOS/releases/tag/v0.7.1-hdslave.13).
 
+Screenshots from the hdslaveOS 0.8.1 development build.
+
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/hdslave/hdslaveOS"><img src="docs/previews/hdslave-theme.png" alt="hdslaveOS HDSLAVE purple flare theme on the Palette, Tracks, Step Edit, and Deep Freeze screens" width="400"></a><br>
+      <a href="https://github.com/hdslave/hdslaveOS"><img src="docs/previews/hdslave-theme.png" alt="hdslaveOS HDSLAVE purple flare theme on the Palette, Mixer, Step Edit, and Deep Freeze screens" width="400"></a><br>
       <sub><b>HDSLAVE</b> — default static purple flare on black</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/hdslave/hdslaveOS"><img src="docs/previews/hdslave-mono-theme.png" alt="hdslaveOS MONO black-and-white dark palette across 16 screens" width="400"></a><br>
+      <a href="https://github.com/hdslave/hdslaveOS"><img src="docs/previews/hdslave-mono-theme.png" alt="hdslaveOS MONO black-and-white palette across 16 screens, including the Mixer" width="400"></a><br>
       <sub><b>MONO</b> — high-contrast black-and-white dark mode</sub>
     </td>
   </tr>
@@ -35,6 +37,13 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 - **Custom plug-in screens**: Uses Melodee 0.7’s `melodee.screen/1` extension. The synths and drum machines have interactive Edit and Stage pages, and Cortex Filter also has an FX rack strip.
 - **Playability**: Wakes sleeping plug-ins when you turn a knob, keys the master compressor's Sidechain from a plug-in's second output (Foundry's kick-only **SC Key**), steps a bar at a time with **SHIFT + encoder** on Step Edit, and lights kit pads more vividly.
 - **Non-destructive**: Runs from the microSD card (`autorun/melodee` and `Melodee/`), licensed AGPL-3.0 like Melodee. See [hdslaveOS/README.md](https://github.com/hdslave/hdslaveOS) for build and install details.
+
+### Mixer in 0.8.1
+
+<p align="center">
+  <img src="docs/previews/hdslave-mixer.png" alt="Four views of the hdslaveOS mixer showing submix sends, insert effects, channel EQ, and compression" width="760">
+  <br><sub>Submix sends, insert effects, channel EQ, and compression.</sub>
+</p>
 
 ---
 
