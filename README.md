@@ -16,7 +16,7 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 
 ## hdslaveOS
 
-[**hdslaveOS**](https://github.com/hdslave/hdslaveOS) (formerly `melodee-hdslave`) is hdslave's performance-tuned fork of [Melodee](https://github.com/keremimo/melodee-sample) by Kerem Kiliç (Ellic Studio), tracking Melodee v0.8.2. It cuts idle CPU and display overhead while staying bit-identical in audio, and powers the custom plug-in screens shown below. Download [hdslaveOS 0.8.2](https://github.com/hdslave/hdslaveOS/releases/tag/v0.8.2-hdslave.1) for the operating system. The [11-plug-in pack with Slink 0.6.0](https://github.com/hdslave/hdslave-MPCSample-Synths-and-Drum-Machines/releases/tag/v0.8.2-slink.1) updates the acid synth in the original 0.8.2 pack.
+[**hdslaveOS**](https://github.com/hdslave/hdslaveOS) (formerly `melodee-hdslave`) is hdslave's performance-tuned fork of [Melodee](https://github.com/keremimo/melodee-sample) by Kerem Kiliç (Ellic Studio), tracking Melodee v0.8.2. It cuts idle CPU and display overhead while staying bit-identical in audio, and powers the custom plug-in screens shown below. For the Anvil K-knob fix, download the OS-only ZIP or the complete installer from [hdslaveOS 0.8.2-hdslave.3](https://github.com/hdslave/hdslaveOS/releases/tag/v0.8.2-hdslave.3). The complete installer and the [standalone 11-plug-in pack](https://github.com/hdslave/hdslave-MPCSample-Synths-and-Drum-Machines/releases/tag/v0.8.2-slink.1) include Slink 0.6.0 and Reverie 0.6.1.
 
 hdslaveOS 0.8.1 screenshots.
 
