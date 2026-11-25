@@ -54,7 +54,7 @@ Mixer opens on the channel strips in 0.8.2. Hold **+** to open the selected chan
 <table>
   <tr>
     <td width="340" align="center">
-      <a href="https://github.com/hdslave/hdslave-Slink-Synth"><img src="docs/previews/slink.gif" alt="Slink 0.6.1 playing on the silver MPC Stage panel with a chrome title and three satin knobs" width="320"></a>
+      <a href="https://github.com/hdslave/hdslave-Slink-Synth"><img src="docs/previews/slink.gif" alt="Slink cycling through Pattern, Voice, Tone, Sequencer, and Clock on the silver MPC panel" width="320"></a>
     </td>
     <td>
       <h3><a href="https://github.com/hdslave/hdslave-Slink-Synth">Slink</a></h3>
