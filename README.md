@@ -16,9 +16,9 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 
 ## hdslaveOS
 
-[**hdslaveOS**](https://github.com/hdslave/hdslaveOS) (formerly `melodee-hdslave`) is hdslave's performance-tuned fork of [Melodee](https://github.com/keremimo/melodee-sample) by Kerem Kiliç (Ellic Studio), tracking Melodee v0.7.1. It cuts idle CPU and display overhead while staying bit-identical in audio, and powers the custom plug-in screens shown below. Download the unsigned OS package and its matching MPC plug-in bundle from the [hdslaveOS v0.7.1-hdslave.13 release](https://github.com/hdslave/hdslaveOS/releases/tag/v0.7.1-hdslave.13).
+[**hdslaveOS**](https://github.com/hdslave/hdslaveOS) (formerly `melodee-hdslave`) is hdslave's performance-tuned fork of [Melodee](https://github.com/keremimo/melodee-sample) by Kerem Kiliç (Ellic Studio), tracking Melodee v0.8.1. It cuts idle CPU and display overhead while staying bit-identical in audio, and powers the custom plug-in screens shown below. Download the unsigned OS package and its matching MPC plug-in bundle from the [hdslaveOS v0.8.1-hdslave.4 release](https://github.com/hdslave/hdslaveOS/releases/tag/v0.8.1-hdslave.4).
 
-Screenshots from the hdslaveOS 0.8.1 development build.
+hdslaveOS 0.8.1 screenshots.
 
 <table>
   <tr>
@@ -34,7 +34,7 @@ Screenshots from the hdslaveOS 0.8.1 development build.
 </table>
 
 - **Efficiency & power**: Less wasted work on the MPC Sample's Cortex-A55, plus **CPU speed**, **Refresh**, **Dim after**, and **Pad brightness** controls.
-- **Custom plug-in screens**: Uses Melodee 0.7’s `melodee.screen/1` extension. The synths and drum machines have interactive Edit and Stage pages, and Cortex Filter also has an FX rack strip.
+- **Custom plug-in screens**: Uses Melodee 0.7’s `melodee.screen/1` extension. The synths and drum machines have interactive panels on Stage, and Cortex Filter also has an FX rack strip.
 - **Playability**: Wakes sleeping plug-ins when you turn a knob, keys the master compressor's Sidechain from a plug-in's second output (Foundry's kick-only **SC Key**), steps a bar at a time with **SHIFT + encoder** on Step Edit, and lights kit pads more vividly.
 - **Non-destructive**: Runs from the microSD card (`autorun/melodee` and `Melodee/`), licensed AGPL-3.0 like Melodee. See [hdslaveOS/README.md](https://github.com/hdslave/hdslaveOS) for build and install details.
 
@@ -191,7 +191,7 @@ Melodee/Plugins/hdslave/hdslave Foundry.clap
 ...
 ```
 
-Load any instrument on an empty track via **Stage → Plugin → hdslave → hdslave NAME** (or insert **hdslave Cortex Filter** in any track, bus, or master FX chain). They run in any Melodee build; under **hdslaveOS**, opening **Edit** or **Stage** shows each plug-in's custom animated screen, and turning a knob wakes a sleeping plug-in.
+Load any instrument on an empty track via **Stage → Plugin → hdslave → hdslave NAME** (or insert **hdslave Cortex Filter** in any track, bus, or master FX chain). They run in any Melodee build; under **hdslaveOS**, press **B1** on Stage to move from **PRESETS** to **PANEL** and open an instrument’s custom screen. Turning a knob wakes a sleeping plug-in.
 
 ## Build from source
 
