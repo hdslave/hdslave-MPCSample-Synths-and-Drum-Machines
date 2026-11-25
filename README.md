@@ -99,7 +99,7 @@ Mixer opens on the channel strips in 0.8.2. Hold **+** to open the selected chan
     <td>
       <h3><a href="https://github.com/hdslave/hdslave-Reverie-Synth">Reverie</a></h3>
       <p><strong>Chord-progression &amp; X/Y Motion pad synthesizer.</strong></p>
-      <p>208 chord progressions taken from the factory pad chord sets of Korg's M3 workstation and Pioneer DJ's TORAIZ SQUID sequencer, played straight from the MPC pads, every chord named from its own notes, voiced and voice-led across six styles in any key — with progressions and patches selected independently. Dual morphing wavetable oscillators with unison, drift, and Korg M3-inspired <b>Motion</b> paths feed ensemble, tempo delay, and shimmer reverb across six Frutiger Aero pages.</p>
+      <p>Play the 46 original progressions from Velvet Night through Moonstone in six voicing styles and any key. The 18 Mood sets each put a different chord on every pad. Existing MPC and SP-16 projects can recall the 208 Factory progressions. Dual wavetable oscillators, X/Y Motion, a phaser, ensemble, tempo delay and shimmer reverb shape the sound. <a href="https://github.com/hdslave/hdslave-Reverie-Synth/releases/tag/v0.6.1">Download Reverie for MPC Sample, SP-16, macOS or Windows.</a></p>
     </td>
   </tr>
   <tr>
