@@ -16,7 +16,7 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 
 ## hdslaveOS
 
-[**hdslaveOS**](https://github.com/hdslave/hdslaveOS) (formerly `melodee-hdslave`) is hdslave's performance-tuned fork of [Melodee](https://github.com/keremimo/melodee-sample) by Kerem Kiliç (Ellic Studio), tracking Melodee v0.8.2. It cuts idle CPU and display overhead while staying bit-identical in audio, and powers the custom plug-in screens shown below. For the Anvil K-knob fix, download the OS-only ZIP or the complete installer from [hdslaveOS 0.8.2-hdslave.3](https://github.com/hdslave/hdslaveOS/releases/tag/v0.8.2-hdslave.3). The complete installer and the [standalone 11-plug-in pack](https://github.com/hdslave/hdslave-MPCSample-Synths-and-Drum-Machines/releases/tag/v0.8.2-slink.1) include Slink 0.6.0 and Reverie 0.6.1.
+[**hdslaveOS**](https://github.com/hdslave/hdslaveOS) (formerly `melodee-hdslave`) is hdslave's performance-tuned fork of [Melodee](https://github.com/keremimo/melodee-sample) by Kerem Kiliç (Ellic Studio), tracking Melodee v0.8.2. It cuts idle CPU and display overhead while staying bit-identical in audio, and powers the custom plug-in screens shown below. For the Anvil K-knob fix, download the OS-only ZIP or the complete installer from [hdslaveOS 0.8.2-hdslave.3](https://github.com/hdslave/hdslaveOS/releases/tag/v0.8.2-hdslave.3). The complete installer and the [standalone 11-plug-in pack](https://github.com/hdslave/hdslave-MPCSample-Synths-and-Drum-Machines/releases/tag/v0.8.2-slink.1) include Slink 0.6.0 and Reverie 0.6.1. After installing either pack, merge the [Slink 0.6.1 MPC update](https://github.com/hdslave/hdslave-Slink-Synth/releases/tag/v0.6.1) to get the silver panel shown below.
 
 hdslaveOS 0.8.1 screenshots.
 
@@ -54,12 +54,12 @@ Mixer opens on the channel strips in 0.8.2. Hold **+** to open the selected chan
 <table>
   <tr>
     <td width="340" align="center">
-      <a href="https://github.com/hdslave/hdslave-Slink-Synth"><img src="docs/previews/slink.gif" alt="Slink acid bass synth animated screen" width="320"></a>
+      <a href="https://github.com/hdslave/hdslave-Slink-Synth"><img src="docs/previews/slink.gif" alt="Slink 0.6.1 playing on the silver MPC Stage panel with a chrome title and three satin knobs" width="320"></a>
     </td>
     <td>
       <h3><a href="https://github.com/hdslave/hdslave-Slink-Synth">Slink</a></h3>
       <p><strong>303-style acid bass synthesizer + TB-3PO generative sequencer.</strong></p>
-      <p>Pairs a classic 303 diode ladder / Twin Peak / 18 dB bass voice with a tick-accurate port of Ornament &amp; Crime's Hemisphere <b>TB-3PO</b> acid pattern generator (same seed, density, and scale produce the exact module pattern). Its <b>Press Plate</b> screen displays every step's note, gate, accent, and slide, with a <b>Blacklight Transfer</b> theme one press away. On freesp16 the six encoders follow the selected bank, and you can audition steps on the pitch ribbon. <a href="https://github.com/hdslave/hdslave-Slink-Synth/releases/tag/v0.6.0">Download Slink for MPC Sample, freesp16, macOS or Windows.</a></p>
+      <p>Pairs a classic 303 diode ladder / Twin Peak / 18 dB bass voice with a tick-accurate port of Ornament &amp; Crime's Hemisphere <b>TB-3PO</b> acid pattern generator (same seed, density, and scale produce the exact module pattern). Its silver <b>Press Plate</b> screen has a wide chrome Slink title, three satin-chrome knobs, and a grid showing notes, gates, accents, and slides for up to 32 steps. Switch to <b>Blacklight Transfer</b> to see the pitch roll. On freesp16 the six encoders follow the selected bank, and you can audition steps on the pitch ribbon. <a href="https://github.com/hdslave/hdslave-Slink-Synth/releases/tag/v0.6.1">Download Slink 0.6.1 for MPC Sample</a> · <a href="https://github.com/hdslave/hdslave-Slink-Synth/releases/tag/v0.6.0">Downloads for freesp16, macOS and Windows</a>.</p>
     </td>
   </tr>
   <tr>
