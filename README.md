@@ -16,7 +16,9 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 
 ## hdslaveOS
 
-[**hdslaveOS**](https://github.com/hdslave/hdslaveOS) (formerly `melodee-hdslave`) is hdslave's performance-tuned fork of [Melodee](https://github.com/keremimo/melodee-sample) by Kerem Kiliç (Ellic Studio), tracking Melodee v0.8.2. It cuts idle CPU and display overhead while staying bit-identical in audio, and powers the custom plug-in screens shown below. For the Anvil K-knob fix, download the OS-only ZIP or the complete installer from [hdslaveOS 0.8.2-hdslave.3](https://github.com/hdslave/hdslaveOS/releases/tag/v0.8.2-hdslave.3). The complete installer and the [standalone 11-plug-in pack](https://github.com/hdslave/hdslave-MPCSample-Synths-and-Drum-Machines/releases/tag/v0.8.2-slink.2) include Slink 0.6.1 and Reverie 0.6.1. For an existing setup that only needs the new silver panel, use the [Slink-only MPC download](https://github.com/hdslave/hdslave-Slink-Synth/releases/tag/v0.6.1).
+hdslaveOS is hdslave's performance-tuned fork of Melodee by Kerem Kiliç (Ellic Studio), tracking Melodee v0.8.3. It cuts idle CPU and display overhead and powers the custom plug-in screens below. [hdslaveOS](https://github.com/hdslave/hdslaveOS) · [Melodee](https://github.com/keremimo/melodee-sample)
+
+Choose the complete SD-card installer for hdslaveOS and all eleven plug-ins, or the standalone pack for the plug-ins alone. Both include **Slink 0.6.3** and **Reverie 0.6.3**. The manifest lists all eleven source revisions and file hashes. [Complete installer and OS-only ZIP](https://github.com/hdslave/hdslaveOS/releases/latest) · [11-plug-in pack](https://github.com/hdslave/hdslave-MPCSample-Synths-and-Drum-Machines/releases/latest)
 
 hdslaveOS 0.8.1 screenshots.
 
@@ -33,14 +35,14 @@ hdslaveOS 0.8.1 screenshots.
   </tr>
 </table>
 
-- **Efficiency & power**: Less wasted work on the MPC Sample's Cortex-A55, plus **CPU speed**, **Refresh**, **Dim after**, and **Pad brightness** controls.
-- **Custom plug-in screens**: Uses Melodee 0.7’s `melodee.screen/1` extension. The synths and drum machines have interactive panels on Stage, and Cortex Filter also has an FX rack strip.
+- **Efficiency & power**: Less wasted work on the MPC Sample's Cortex-A55, plus **CPU speed**, **Display refresh**, **Dim after**, and **Pad brightness**. Display refresh caps the built-in display during playback and input.
+- **Custom plug-in screens**: The synths and drum machines have interactive panels on Stage, and Cortex Filter also has an FX rack strip. Plug-in pages that use the new screen host extension can handle **MUTE** and **ERASE** taps.
 - **Playability**: Wakes sleeping plug-ins when you turn a knob, keys the master compressor's Sidechain from a plug-in's second output (Foundry's kick-only **SC Key**), steps a bar at a time with **SHIFT + encoder** on Step Edit, and lights kit pads more vividly.
 - **Non-destructive**: Runs from the microSD card (`autorun/melodee` and `Melodee/`), licensed AGPL-3.0 like Melodee. See [hdslaveOS/README.md](https://github.com/hdslave/hdslaveOS) for build and install details.
 
 ### Mixer
 
-Mixer opens on the channel strips in 0.8.2. Hold **+** to open the selected channel’s card and **−** to return to the strips.
+Mixer opens on the channel strips. Hold **+** to open the selected channel’s card and **−** to return to the strips.
 
 <p align="center">
   <img src="docs/previews/hdslave-mixer.png" alt="Four views of the hdslaveOS mixer showing submix sends, insert effects, channel EQ, and compression" width="760">
