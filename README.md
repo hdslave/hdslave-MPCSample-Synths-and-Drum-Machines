@@ -10,7 +10,7 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 
 <sub>Already cloned without <code>--recurse-submodules</code>? Run <code>git submodule update --init --recursive</code> inside the folder.</sub>
 
-> **Desktop CLAP builds (macOS & Windows):** Every plug-in repository below includes both its MPC Sample version and a separate desktop CLAP build in its `mac-clap/` folder (all MPC screens on one interactive panel + MIDI Learn). [Slink](https://github.com/hdslave/hdslave-Slink-Synth/releases/tag/v0.8.0) and [Reverie](https://github.com/hdslave/hdslave-Reverie-Synth/releases/tag/v0.6.1) have prebuilt desktop downloads.
+> **Desktop CLAP builds (macOS & Windows):** Every plug-in repository below includes both its MPC Sample version and a separate desktop CLAP build in its `mac-clap/` folder (all MPC screens on one interactive panel + MIDI Learn). [Slink](https://github.com/hdslave/hdslave-Slink-Synth/releases/tag/v0.8.0) and [Reverie](https://github.com/hdslave/hdslave-Reverie-Synth/releases/tag/v0.6.3) have prebuilt desktop downloads.
 
 ---
 
@@ -101,7 +101,7 @@ Mixer opens on the channel strips. Hold **+** to open the selected channel’s c
     <td>
       <h3><a href="https://github.com/hdslave/hdslave-Reverie-Synth">Reverie</a></h3>
       <p><strong>Chord-progression &amp; X/Y Motion pad synthesizer.</strong></p>
-      <p>Play the 46 original progressions from Velvet Night through Moonstone in six voicing styles and any key. The 18 Mood sets each put a different chord on every pad. Existing MPC and SP-16 projects can recall the 208 Factory progressions. Dual wavetable oscillators, X/Y Motion, a phaser, ensemble, tempo delay and shimmer reverb shape the sound. <a href="https://github.com/hdslave/hdslave-Reverie-Synth/releases/tag/v0.6.1">Download Reverie for MPC Sample, SP-16, macOS or Windows.</a></p>
+      <p>Play the 46 original progressions from Velvet Night through Moonstone in six voicing styles and any key. The 18 Mood sets each put a different chord on every pad. Existing MPC and SP-16 projects can recall the 208 Factory progressions. Dual wavetable oscillators, X/Y Motion, a phaser, ensemble, tempo delay and shimmer reverb shape the sound. <a href="https://github.com/hdslave/hdslave-Reverie-Synth/releases/tag/v0.6.3">Download Reverie for MPC Sample, SP-16, macOS or Windows.</a></p>
     </td>
   </tr>
   <tr>
