@@ -18,7 +18,7 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 
 hdslaveOS is hdslave's performance-tuned fork of Melodee by Kerem Kiliç (Ellic Studio), tracking Melodee v0.8.3. It cuts idle CPU and display overhead and powers the custom plug-in screens below. [hdslaveOS](https://github.com/hdslave/hdslaveOS) · [Melodee](https://github.com/keremimo/melodee-sample)
 
-Choose the complete SD-card installer for hdslaveOS and all eleven plug-ins, or the standalone pack for the plug-ins alone. Both include **Slink 0.6.3** and **Reverie 0.6.3**. The manifest lists all eleven source revisions and file hashes. [Complete installer and OS-only ZIP](https://github.com/hdslave/hdslaveOS/releases/latest) · [11-plug-in pack](https://github.com/hdslave/hdslave-MPCSample-Synths-and-Drum-Machines/releases/latest)
+Choose the complete SD-card installer for hdslaveOS and all eleven plug-ins, or the standalone pack for the plug-ins alone. Both carry the plug-ins of hdslaveOS **0.8.3-hdslave.3**, including **Slink 0.8.1**, **Reverie 0.6.4** and **MoonBass 0.1.7**. The manifest lists all eleven source revisions and file hashes. [Complete installer and OS-only ZIP](https://github.com/hdslave/hdslaveOS/releases/latest) · [11-plug-in pack](https://github.com/hdslave/hdslave-MPCSample-Synths-and-Drum-Machines/releases/latest)
 
 hdslaveOS 0.8.1 screenshots.
 
