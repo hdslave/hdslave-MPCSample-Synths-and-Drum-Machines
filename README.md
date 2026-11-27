@@ -10,7 +10,7 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 
 <sub>Already cloned without <code>--recurse-submodules</code>? Run <code>git submodule update --init --recursive</code> inside the folder.</sub>
 
-> **Desktop CLAP builds (macOS & Windows):** Every plug-in repository below includes both its MPC Sample version and a separate desktop CLAP build in its `mac-clap/` folder (all MPC screens on one interactive panel + MIDI Learn). [Slink](https://github.com/hdslave/hdslave-Slink-Synth#downloads) and [Reverie](https://github.com/hdslave/hdslave-Reverie-Synth/releases/tag/v0.6.3) have prebuilt desktop downloads.
+> **Desktop CLAP builds (macOS & Windows):** Every plug-in repository below includes both its MPC Sample version and a separate desktop CLAP build in its `mac-clap/` folder (all MPC screens on one interactive panel + MIDI Learn). [Slink 0.9.10](https://github.com/hdslave/hdslave-Slink-Synth/releases/tag/v0.9.10) and [Reverie](https://github.com/hdslave/hdslave-Reverie-Synth/releases/tag/v0.6.3) have prebuilt desktop downloads.
 
 ---
 
@@ -61,7 +61,7 @@ Mixer opens on the channel strips. Hold **+** to open the selected channel’s c
     <td>
       <h3><a href="https://github.com/hdslave/hdslave-Slink-Synth">Slink</a></h3>
       <p><strong>303-style acid bass synthesizer + TB-3PO generative sequencer.</strong></p>
-      <p>Pairs a classic 303 diode ladder / Twin Peak / 18 dB bass voice with a tick-accurate port of Ornament &amp; Crime's Hemisphere <b>TB-3PO</b> acid pattern generator (same seed, density, and scale produce the exact module pattern). Its silver <b>Press Plate</b> screen has a wide chrome Slink title, three satin-chrome knobs, and a grid showing notes, gates, accents, and slides for up to 32 steps. Switch to <b>Blacklight Transfer</b> to see the pitch roll. The freesp16 Thorn Crown panel has a pitch trace above the note keys. Drag either to edit a step, or press the step number to audition it. <a href="https://github.com/hdslave/hdslave-Slink-Synth#downloads">Slink downloads by platform</a> · <a href="https://github.com/hdslave/hdslave-Slink-Synth/blob/main/docs/screen.md#thorn-crown-on-freesp16">freesp16 gallery</a>.</p>
+      <p>Pairs a classic 303 diode ladder / Twin Peak / 18 dB bass voice with a tick-accurate port of Ornament &amp; Crime's Hemisphere <b>TB-3PO</b> acid pattern generator (same seed, density, and scale produce the exact module pattern). Its silver <b>Press Plate</b> screen has a wide chrome Slink title, three satin-chrome knobs, and a grid showing notes, gates, accents, and slides for up to 32 steps. Switch to <b>Blacklight Transfer</b> to see the pitch roll. The freesp16 Thorn Crown panel has a pitch trace above the note keys. Drag either to edit a step, or press the step number to audition it. <a href="https://github.com/hdslave/hdslave-Slink-Synth/releases/tag/v0.9.10">Slink 0.9.10 for freesp16, macOS and Windows</a> · <a href="https://github.com/hdslave/hdslave-Slink-Synth#downloads">All platform downloads</a> · <a href="https://github.com/hdslave/hdslave-Slink-Synth/blob/main/docs/screen.md#thorn-crown-on-freesp16">freesp16 gallery</a>.</p>
     </td>
   </tr>
   <tr>
