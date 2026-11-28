@@ -7,7 +7,7 @@ Ten instruments and one stereo effect for MPC Sample, macOS and Windows. Slink, 
 | Platform | Downloads and builds |
 | --- | --- |
 | **MPC Sample** | [All eleven plug-ins](https://github.com/hdslave/hdslave-Synths-and-Drum-Machines/releases/latest) or [hdslaveOS with the plug-ins included](https://github.com/hdslave/hdslaveOS/releases/latest) |
-| **SP-16** | [Slink 0.9.11](https://github.com/hdslave/hdslave-Slink-Synth/releases/tag/v0.9.11) · [Reverie 0.4.4-sp16.18](https://github.com/hdslave/hdslave-Reverie-Synth/releases/tag/v0.6.6) · [Anvil 0.7.1](https://github.com/hdslave/hdslave-Anvil-Synth/releases/tag/v0.7.1) · [Cortex Filter 0.3.5](https://github.com/hdslave/hdslave-Cortex-Filter/releases/tag/v0.3.5) |
+| **SP-16** | [Slink 0.9.11](https://github.com/hdslave/hdslave-Slink-Synth/releases/tag/v0.9.11) · [Reverie 0.4.4-sp16.18](https://github.com/hdslave/hdslave-Reverie-Synth/releases/tag/v0.6.6) · [Anvil 0.8.0](https://github.com/hdslave/hdslave-Anvil-Synth/releases/tag/v0.8.0) · [Cortex Filter 0.3.5](https://github.com/hdslave/hdslave-Cortex-Filter/releases/tag/v0.3.5) |
 | **macOS & Windows** | [Build all eleven desktop plug-ins](https://github.com/hdslave/hdslave-Synths-and-drum-machines-Mac-Win/blob/main/docs/building.md). Download [Slink in CLAP format](https://github.com/hdslave/hdslave-Slink-Synth/releases/tag/v0.9.11) or [Reverie in CLAP and VST3](https://github.com/hdslave/hdslave-Reverie-Synth/releases/tag/desktop-v0.3.7). |
 
 Select an interface to open its full-size recording.
@@ -194,7 +194,7 @@ Move through the eight corners of a stereo filter cube on three axes. Sequence c
 
 ## Installation & source
 
-**MPC Sample.** Extract the [plug-in pack](https://github.com/hdslave/hdslave-Synths-and-Drum-Machines/releases/latest) and copy its plug-ins into `Melodee/Plugins/hdslave/` on the microSD card. The [0.9.1-hdslave.3 pack](https://github.com/hdslave/hdslave-Synths-and-Drum-Machines/releases/tag/v0.9.1-hdslave.3) includes Slink 0.9.0, Anvil 0.7.0 and Reverie 0.6.4. For the newer individual MPC builds, see [Anvil 0.7.1](https://github.com/hdslave/hdslave-Anvil-Synth/releases/tag/v0.7.1) and [Reverie 0.6.6](https://github.com/hdslave/hdslave-Reverie-Synth/releases/tag/v0.6.6).
+**MPC Sample.** Extract the [plug-in pack](https://github.com/hdslave/hdslave-Synths-and-Drum-Machines/releases/latest) and copy its plug-ins into `Melodee/Plugins/hdslave/` on the microSD card. The [0.9.1-hdslave.3 pack](https://github.com/hdslave/hdslave-Synths-and-Drum-Machines/releases/tag/v0.9.1-hdslave.3) includes Slink 0.9.0, Anvil 0.7.0 and Reverie 0.6.4. For the newer individual MPC builds, see [Anvil 0.8.0](https://github.com/hdslave/hdslave-Anvil-Synth/releases/tag/v0.8.0) and [Reverie 0.6.6](https://github.com/hdslave/hdslave-Reverie-Synth/releases/tag/v0.6.6).
 
 On an instrument track in hdslaveOS, press **B1** on Stage to switch from **PRESETS** to **PANEL**. Load Cortex Filter in an FX slot. Keep Slink’s device filename, `hdslave TB-MPC-3-P-0.clap`, so existing projects can find it.
 
