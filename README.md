@@ -1,6 +1,6 @@
 <h1 align="center">hdslave MPC Sample Synths &amp; Drum Machines</h1>
 
-<p align="center"><strong>11 custom CLAP synthesizers, drum machines, and effects — plus <a href="https://github.com/hdslave/hdslaveOS">hdslaveOS</a> — built for the Akai MPC Sample.</strong></p>
+<p align="center"><strong>Ten synthesizers and drum machines, one effect, and <a href="https://github.com/hdslave/hdslaveOS">hdslaveOS</a>, the techno OS they were made for: a techno toolkit for the Akai MPC Sample.</strong></p>
 
 Each instrument, effect, and OS lives in its own repository and is pinned here as a git submodule so a single clone fetches the entire suite. Every plug-in ships as a standalone 64-bit ARM Linux `.clap` binary and draws its own live, hardware-inspired interface directly on the MPC Sample's screen when running in **hdslaveOS**.
 
@@ -16,7 +16,7 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 
 ## hdslaveOS
 
-hdslaveOS is hdslave's performance-tuned fork of Melodee by Kerem Kiliç (Ellic Studio), tracking Melodee v0.9.1. It cuts idle CPU and display overhead and powers the custom plug-in screens below. [hdslaveOS](https://github.com/hdslave/hdslaveOS) · [Melodee](https://github.com/keremimo/melodee-sample)
+hdslaveOS is a techno OS for the Akai MPC Sample, built on Melodee by Kerem Kiliç (Ellic Studio) and currently on Melodee v0.9.1. The plug-ins below draw their own screens in it, the kick can drive its master sidechain, and it keeps more processor headroom with bit-identical sound. [hdslaveOS](https://github.com/hdslave/hdslaveOS) · [Melodee](https://github.com/keremimo/melodee-sample)
 
 Choose the complete SD-card installer for hdslaveOS and all eleven plug-ins, or the standalone pack for the plug-ins alone. Both carry the plug-ins of hdslaveOS **0.9.1-hdslave.2**, including **Slink 0.9.0**, **Anvil 0.7.0**, **Foundry 0.7.0** and **Mystik 0.4.0**, whose pads now hold up to − / + (a drum map). The manifest lists all eleven source revisions and file hashes. [Complete installer and OS-only ZIP](https://github.com/hdslave/hdslaveOS/releases/latest) · [11-plug-in pack](https://github.com/hdslave/hdslave-MPCSample-Synths-and-Drum-Machines/releases/latest)
 
@@ -35,9 +35,11 @@ hdslaveOS 0.8.1 screenshots.
   </tr>
 </table>
 
-- **Efficiency & power**: Less wasted work on the MPC Sample's Cortex-A55, plus **CPU speed**, **Display refresh**, **Dim after**, and **Pad brightness**. Display refresh caps the built-in display during playback and input.
-- **Custom plug-in screens**: The synths and drum machines have interactive panels on Stage, and Cortex Filter also has an FX rack strip. Plug-in pages that use the new screen host extension can handle **MUTE** and **ERASE** taps.
-- **Playability**: Wakes sleeping plug-ins when you turn a knob, keys the master compressor's Sidechain from a plug-in's second output (Foundry's kick-only **SC Key**), steps a bar at a time with **SHIFT + encoder** on Step Edit, and lights kit pads more vividly.
+- **The kick drives the sidechain**: The master compressor's **Sidechain** can listen to a plug-in's second output, such as Foundry's kick-only **SC Key** bus.
+- **Custom plug-in screens**: The synths and drum machines have interactive panels on Stage, and Cortex Filter, the one effect, also has an FX rack strip. Plug-in pages that use the screen host extension can handle **MUTE** and **ERASE** taps.
+- **Sequencers stay in time**: Plug-ins with their own sequencers are woken when the transport starts or stops, are told when a song loops, and keep their place while they sleep or play from a freeze.
+- **Headroom & power**: Less wasted work on the MPC Sample's Cortex-A55 with bit-identical audio, plus **CPU speed** (Full by default), **Display refresh**, **Dim after**, and **Pad brightness**.
+- **Playability**: **SHIFT + encoder** steps a bar at a time on Step Edit, user synth presets load in any project, a MIDI track's **Multi** channel puts each pad on its own channel, and kit pads light more vividly.
 - **Non-destructive**: Runs from the microSD card (`autorun/melodee` and `Melodee/`), licensed AGPL-3.0 like Melodee. See [hdslaveOS/README.md](https://github.com/hdslave/hdslaveOS) for build and install details.
 
 ### Mixer
