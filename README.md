@@ -48,7 +48,7 @@ Each pad plays a voiced chord. Pick one of 46 progressions or 18 Mood sets, then
 </table>
 <table align="left">
   <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
-  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Reverie-Synth/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Reverie-Synth/main/mac-clap/assets/desktop-card.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Reverie-Synth/main/mac-clap/assets/desktop-preview.webp" alt="Reverie on macOS and Windows. Chord pads, Motion orb and output meter"></picture></a></td></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Reverie-Synth/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Reverie-Synth/main/mac-clap/assets/desktop-card.webp"><source media="(max-width: 440px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/reverie-desktop-preview-704.webp"><source media="(max-width: 465px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/reverie-desktop-preview-752.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Reverie-Synth/main/mac-clap/assets/desktop-preview.webp" alt="Reverie on macOS and Windows. Chord pads, Motion orb and output meter"></picture></a></td></tr>
 </table>
 <br clear="all">
 
@@ -62,7 +62,7 @@ Two eight-step sequencers drive a voice with through-zero FM, ring modulation an
 </table>
 <table align="left">
   <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
-  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Psychic-Synth/blob/main/mac-clap/assets/desktop-preview.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Psychic-Synth/main/mac-clap/assets/desktop-preview.webp" alt="Psychic on macOS and Windows. Dual sequencers and voltage displays during playback"></a></td></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Psychic-Synth/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-width: 460px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/psychic-desktop-preview-740.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Psychic-Synth/main/mac-clap/assets/desktop-preview.webp" alt="Psychic on macOS and Windows. Dual sequencers and voltage displays during playback"></picture></a></td></tr>
 </table>
 <br clear="all">
 
@@ -90,7 +90,7 @@ Play all 24 Plaits oscillator models across eight voices. Route velocity to timb
 </table>
 <table align="left">
   <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
-  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Nexus-Synth/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Nexus-Synth/main/mac-clap/assets/desktop-card.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Nexus-Synth/main/mac-clap/assets/desktop-preview.webp" alt="Nexus on macOS and Windows. Macro oscillator, envelopes and modulation controls"></picture></a></td></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Nexus-Synth/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Nexus-Synth/main/mac-clap/assets/desktop-card.webp"><source media="(max-width: 440px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/nexus-desktop-preview-704.webp"><source media="(max-resolution: 2dppx), (max-width: 390px) and (max-resolution: 3dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/nexus-desktop-preview-900.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Nexus-Synth/main/mac-clap/assets/desktop-preview.webp" alt="Nexus on macOS and Windows. Macro oscillator, envelopes and modulation controls"></picture></a></td></tr>
 </table>
 <br clear="all">
 
@@ -100,11 +100,11 @@ Tune two oscillators and four subharmonics into a chord. Four clock dividers dri
 
 <table align="left">
   <tr><th scope="col" width="319">MPC Sample</th></tr>
-  <tr><td align="center" width="319"><a href="https://github.com/hdslave/hdslave-Necronomicon-Synth/blob/main/docs/necronomicon-screen.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Necronomicon-Synth/main/docs/mpc-card.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Necronomicon-Synth/main/docs/mpc-loop.webp" alt="Necronomicon on MPC Sample. Liquid Light rhythm wheels showing the clock divisions"></picture></a></td></tr>
+  <tr><td align="center" width="319"><a href="https://github.com/hdslave/hdslave-Necronomicon-Synth/blob/main/docs/necronomicon-screen.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Necronomicon-Synth/main/docs/mpc-card.webp"><source type="image/avif" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/necronomicon-mpc-loop.avif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Necronomicon-Synth/main/docs/mpc-loop.webp" alt="Necronomicon on MPC Sample. Liquid Light rhythm wheels showing the clock divisions"></picture></a></td></tr>
 </table>
 <table align="left">
   <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
-  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Necronomicon-Synth/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Necronomicon-Synth/main/mac-clap/assets/desktop-card.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Necronomicon-Synth/main/mac-clap/assets/desktop-loop.webp" alt="Necronomicon on macOS and Windows. Oscillators, subharmonic dividers and rhythm wheels"></picture></a></td></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Necronomicon-Synth/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Necronomicon-Synth/main/mac-clap/assets/desktop-card.webp"><source media="(max-width: 400px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/necronomicon-desktop-loop-628.webp"><source media="(max-width: 440px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/necronomicon-desktop-loop-704.webp"><source media="(max-width: 465px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/necronomicon-desktop-loop-752.webp"><source media="(max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/necronomicon-desktop-loop-920.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Necronomicon-Synth/main/mac-clap/assets/desktop-loop.webp" alt="Necronomicon on macOS and Windows. Oscillators, subharmonic dividers and rhythm wheels"></picture></a></td></tr>
 </table>
 <br clear="all">
 
@@ -116,16 +116,16 @@ Program eight steps of pitch and velocity for two oscillators and noise. Hard sy
 
 <p>
   <strong>SP-16</strong> · <a href="https://github.com/hdslave/hdslave-Anvil-Synth/blob/main/README.md#freesp16">Pitch and velocity sequencer</a><br>
-  <a href="https://github.com/hdslave/hdslave-Anvil-Synth/blob/main/docs/sp16/steps.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Anvil-Synth/main/docs/sp16-loop.webp" width="780" alt="Anvil STEPS page with pitch and velocity for eight steps and controls for the selected step"></a>
+  <a href="https://github.com/hdslave/hdslave-Anvil-Synth/blob/main/docs/sp16/steps.webp"><picture><source type="image/avif" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/anvil-sp16-loop.avif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Anvil-Synth/main/docs/sp16-loop.webp" width="780" alt="Anvil STEPS page with pitch and velocity for eight steps and controls for the selected step"></picture></a>
 </p>
 
 <table align="left">
   <tr><th scope="col" width="319">MPC Sample</th></tr>
-  <tr><td align="center" width="319"><a href="https://github.com/hdslave/hdslave-Anvil-Synth/blob/main/docs/anvil-screen.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Anvil-Synth/main/docs/mpc-card.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Anvil-Synth/main/docs/mpc-loop.webp" alt="Anvil on MPC Sample. Eight-step percussion sequencer and voice controls"></picture></a></td></tr>
+  <tr><td align="center" width="319"><a href="https://github.com/hdslave/hdslave-Anvil-Synth/blob/main/docs/anvil-screen.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Anvil-Synth/main/docs/mpc-card.webp"><source type="image/avif" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/anvil-mpc-loop.avif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Anvil-Synth/main/docs/mpc-loop.webp" alt="Anvil on MPC Sample. Eight-step percussion sequencer and voice controls"></picture></a></td></tr>
 </table>
 <table align="left">
   <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
-  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Anvil-Synth/blob/main/mac-clap/assets/desktop-preview.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Anvil-Synth/main/mac-clap/assets/desktop-preview.webp" alt="Anvil on macOS and Windows. Eight-step percussion sequence during playback"></a></td></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Anvil-Synth/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-width: 400px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/anvil-desktop-preview-628.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Anvil-Synth/main/mac-clap/assets/desktop-preview.webp" alt="Anvil on macOS and Windows. Eight-step percussion sequence during playback"></picture></a></td></tr>
 </table>
 <br clear="all">
 
@@ -135,11 +135,11 @@ Each of the 16 pads has its own drum voice, with a choice of 808, 909 or 606 mod
 
 <table align="left">
   <tr><th scope="col" width="319">MPC Sample</th></tr>
-  <tr><td align="center" width="319"><a href="https://github.com/hdslave/hdslave-Foundry-Drum-Machine/blob/main/docs/foundry-screen.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Foundry-Drum-Machine/main/docs/mpc-card.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Foundry-Drum-Machine/main/docs/mpc-loop.webp" alt="Foundry on MPC Sample. X0X Drum Works pad triggers and hit timeline"></picture></a></td></tr>
+  <tr><td align="center" width="319"><a href="https://github.com/hdslave/hdslave-Foundry-Drum-Machine/blob/main/docs/foundry-screen.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Foundry-Drum-Machine/main/docs/mpc-card.webp"><source type="image/avif" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/foundry-mpc-loop.avif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Foundry-Drum-Machine/main/docs/mpc-loop.webp" alt="Foundry on MPC Sample. X0X Drum Works pad triggers and hit timeline"></picture></a></td></tr>
 </table>
 <table align="left">
   <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
-  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Foundry-Drum-Machine/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Foundry-Drum-Machine/main/mac-clap/assets/desktop-card.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Foundry-Drum-Machine/main/mac-clap/assets/desktop-loop.webp" alt="Foundry on macOS and Windows. Drum pads and individual voice controls during playback"></picture></a></td></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Foundry-Drum-Machine/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Foundry-Drum-Machine/main/mac-clap/assets/desktop-card.webp"><source media="(max-width: 440px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/foundry-desktop-loop-700.webp"><source media="(max-width: 465px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/foundry-desktop-loop-752.webp"><source media="(max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/foundry-desktop-loop-920.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Foundry-Drum-Machine/main/mac-clap/assets/desktop-loop.webp" alt="Foundry on macOS and Windows. Drum pads and individual voice controls during playback"></picture></a></td></tr>
 </table>
 <br clear="all">
 
@@ -153,7 +153,7 @@ Build a kick from its pitch sweep, harmonics, noise and decay. The Orbital Impac
 </table>
 <table align="left">
   <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
-  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-MoonBass-Synth/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-MoonBass-Synth/main/mac-clap/assets/desktop-card.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-MoonBass-Synth/main/mac-clap/assets/desktop-loop.webp" alt="MoonBass on macOS and Windows. Kick controls and Orbital Impact display"></picture></a></td></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-MoonBass-Synth/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-MoonBass-Synth/main/mac-clap/assets/desktop-card.webp"><source media="(max-width: 440px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/moonbass-desktop-loop-700.webp"><source media="(max-width: 465px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/moonbass-desktop-loop-752.webp"><source media="(max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/moonbass-desktop-loop-920.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-MoonBass-Synth/main/mac-clap/assets/desktop-loop.webp" alt="MoonBass on macOS and Windows. Kick controls and Orbital Impact display"></picture></a></td></tr>
 </table>
 <br clear="all">
 
@@ -167,7 +167,7 @@ Play eight hand strokes on nine modeled drum bodies, from tabla to iron bell. A 
 </table>
 <table align="left">
   <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
-  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Mystik-Synth/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Mystik-Synth/main/mac-clap/assets/desktop-card.webp"><source media="(max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Mystik-Synth/main/mac-clap/assets/desktop-card-2x.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Mystik-Synth/main/mac-clap/assets/desktop-loop.webp" alt="Mystik on macOS and Windows. Percussion voices and sequencer during playback"></picture></a></td></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Mystik-Synth/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Mystik-Synth/main/mac-clap/assets/desktop-card.webp"><source media="(max-width: 440px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/mystik-desktop-card-2x-704.webp"><source media="(max-width: 465px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/mystik-desktop-card-2x-752.webp"><source media="(max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Mystik-Synth/main/mac-clap/assets/desktop-card-2x.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Mystik-Synth/main/mac-clap/assets/desktop-loop.webp" alt="Mystik on macOS and Windows. Percussion voices and sequencer during playback"></picture></a></td></tr>
 </table>
 <br clear="all">
 
@@ -188,7 +188,7 @@ Move through the eight corners of a stereo filter cube on three axes. Sequence c
 </table>
 <table align="left">
   <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
-  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Cortex-Filter/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-resolution: 1dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Cortex-Filter/main/mac-clap/assets/desktop-card.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Cortex-Filter/main/mac-clap/assets/desktop-loop.webp" alt="Cortex Filter on macOS and Windows. Stereo filter controls, moving cube and response plot"></picture></a></td></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Cortex-Filter/blob/main/mac-clap/assets/desktop-preview.webp"><picture><source media="(max-width: 400px) and (max-resolution: 2dppx)" srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/cortex-filter-desktop-loop-628.webp"><source srcset="https://raw.githubusercontent.com/hdslave/hdslave-Synths-and-Drum-Machines/main/docs/previews/retina/cortex-filter-desktop-loop.webp"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Cortex-Filter/main/mac-clap/assets/desktop-loop.webp" alt="Cortex Filter on macOS and Windows. Stereo filter controls, moving cube and response plot"></picture></a></td></tr>
 </table>
 <br clear="all">
 
