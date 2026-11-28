@@ -22,12 +22,12 @@ Slink makes acid bass lines with the TB-3PO pattern generator. Dial in a seed, d
 </p>
 
 <table align="left">
-  <tr><th scope="col">MPC Sample</th></tr>
-  <tr><td align="center"><a href="docs/previews/slink.gif"><img src="docs/previews/slink.gif" width="292" alt="Slink on MPC Sample, silver Press Plate cycling through the bass controls and sequencer"></a></td></tr>
+  <tr><th scope="col" width="319">MPC Sample</th></tr>
+  <tr><td align="center" width="319"><a href="docs/previews/slink.gif"><img src="docs/previews/slink.gif" alt="Slink on MPC Sample. Silver Press Plate cycling through the bass controls and sequencer"></a></td></tr>
 </table>
 <table align="left">
-  <tr><th scope="col">macOS &amp; Windows</th></tr>
-  <tr><td align="center"><a href="https://github.com/hdslave/hdslave-Slink-Synth/blob/v0.9.11/docs/slink-desktop-0.9.11.png"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Slink-Synth/v0.9.11/docs/slink-desktop-0.9.11.png" width="432" alt="Slink on macOS &amp; Windows, thorn Crown editor with a 16-step score above the six control groups"></a></td></tr>
+  <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Slink-Synth/blob/v0.9.11/docs/slink-desktop-0.9.11.png"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Slink-Synth/v0.9.11/docs/slink-desktop-0.9.11.png" alt="Slink on macOS and Windows. Thorn Crown editor with a 16-step score above the six control groups"></a></td></tr>
 </table>
 <br clear="all">
 
@@ -41,12 +41,12 @@ Each pad plays a voiced chord. Pick one of 46 progressions or 18 Mood sets, then
 </p>
 
 <table align="left">
-  <tr><th scope="col">MPC Sample</th></tr>
-  <tr><td align="center"><a href="docs/previews/reverie.gif"><img src="docs/previews/reverie.gif" width="292" alt="Reverie on MPC Sample, chord progressions, Mood sets and synth controls"></a></td></tr>
+  <tr><th scope="col" width="319">MPC Sample</th></tr>
+  <tr><td align="center" width="319"><a href="docs/previews/reverie.gif"><img src="docs/previews/reverie.gif" alt="Reverie on MPC Sample. Chord progressions, Mood sets and synth controls"></a></td></tr>
 </table>
 <table align="left">
-  <tr><th scope="col">macOS &amp; Windows</th></tr>
-  <tr><td align="center"><a href="https://github.com/hdslave/hdslave-Reverie-Synth/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Reverie-Synth/main/mac-clap/assets/desktop-preview.gif" width="432" alt="Reverie on macOS &amp; Windows, chord pads, Motion orb and output meter"></a></td></tr>
+  <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Reverie-Synth/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Reverie-Synth/main/mac-clap/assets/desktop-preview.gif" alt="Reverie on macOS and Windows. Chord pads, Motion orb and output meter"></a></td></tr>
 </table>
 <br clear="all">
 
@@ -55,12 +55,12 @@ Each pad plays a voiced chord. Pick one of 46 progressions or 18 Mood sets, then
 Two eight-step sequencers drive a voice with through-zero FM, ring modulation and a wavefolder. Introduce new gates and pitches with the corruption controls. The Contact Sheet lets you compare the live pattern with the one you saved.
 
 <table align="left">
-  <tr><th scope="col">MPC Sample</th></tr>
-  <tr><td align="center"><a href="docs/previews/psychic.gif"><img src="docs/previews/psychic.gif" width="292" alt="Psychic on MPC Sample, contact Sheet comparing saved and live sequencer steps"></a></td></tr>
+  <tr><th scope="col" width="319">MPC Sample</th></tr>
+  <tr><td align="center" width="319"><a href="docs/previews/psychic.gif"><img src="docs/previews/psychic.gif" alt="Psychic on MPC Sample. Contact Sheet comparing saved and live sequencer steps"></a></td></tr>
 </table>
 <table align="left">
-  <tr><th scope="col">macOS &amp; Windows</th></tr>
-  <tr><td align="center"><a href="https://github.com/hdslave/hdslave-Psychic-Synth/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Psychic-Synth/main/mac-clap/assets/desktop-preview.gif" width="432" alt="Psychic on macOS &amp; Windows, dual sequencers and voltage displays during playback"></a></td></tr>
+  <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Psychic-Synth/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Psychic-Synth/main/mac-clap/assets/desktop-preview.gif" alt="Psychic on macOS and Windows. Dual sequencers and voltage displays during playback"></a></td></tr>
 </table>
 <br clear="all">
 
@@ -69,12 +69,12 @@ Two eight-step sequencers drive a voice with through-zero FM, ring modulation an
 Switch among 18 engines, from four-operator FM and an eight-slot drum kit to plucked strings and a resonator kick. The engines share a filter, drive and envelopes, so you can shape a new voice with familiar controls.
 
 <table align="left">
-  <tr><th scope="col">MPC Sample</th></tr>
-  <tr><td align="center"><a href="docs/previews/machine.gif"><img src="docs/previews/machine.gif" width="292" alt="Machine on MPC Sample, engine pages and live voice visualizers"></a></td></tr>
+  <tr><th scope="col" width="319">MPC Sample</th></tr>
+  <tr><td align="center" width="319"><a href="docs/previews/machine.gif"><img src="docs/previews/machine.gif" alt="Machine on MPC Sample. Engine pages and live voice visualizers"></a></td></tr>
 </table>
 <table align="left">
-  <tr><th scope="col">macOS &amp; Windows</th></tr>
-  <tr><td align="center"><a href="https://github.com/hdslave/hdslave-Machine/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Machine/main/mac-clap/assets/desktop-preview.gif" width="432" alt="Machine on macOS &amp; Windows, voice controls around the oscilloscope"></a></td></tr>
+  <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Machine/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Machine/main/mac-clap/assets/desktop-preview.gif" alt="Machine on macOS and Windows. Voice controls around the oscilloscope"></a></td></tr>
 </table>
 <br clear="all">
 
@@ -83,12 +83,12 @@ Switch among 18 engines, from four-operator FM and an eight-slot drum kit to plu
 Play all 24 Plaits oscillator models across eight voices. Route velocity to timbre for accents, stack voices in unison, or use two envelopes and two LFOs to animate a held chord.
 
 <table align="left">
-  <tr><th scope="col">MPC Sample</th></tr>
-  <tr><td align="center"><a href="docs/previews/nexus.gif"><img src="docs/previews/nexus.gif" width="292" alt="Nexus on MPC Sample, model, voice and modulation pages"></a></td></tr>
+  <tr><th scope="col" width="319">MPC Sample</th></tr>
+  <tr><td align="center" width="319"><a href="docs/previews/nexus.gif"><img src="docs/previews/nexus.gif" alt="Nexus on MPC Sample. Model, voice and modulation pages"></a></td></tr>
 </table>
 <table align="left">
-  <tr><th scope="col">macOS &amp; Windows</th></tr>
-  <tr><td align="center"><a href="https://github.com/hdslave/hdslave-Nexus-Synth/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Nexus-Synth/main/mac-clap/assets/desktop-preview.gif" width="432" alt="Nexus on macOS &amp; Windows, macro oscillator, envelopes and modulation controls"></a></td></tr>
+  <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Nexus-Synth/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Nexus-Synth/main/mac-clap/assets/desktop-preview.gif" alt="Nexus on macOS and Windows. Macro oscillator, envelopes and modulation controls"></a></td></tr>
 </table>
 <br clear="all">
 
@@ -97,12 +97,12 @@ Play all 24 Plaits oscillator models across eight voices. Route velocity to timb
 Tune two oscillators and four subharmonics into a chord. Four clock dividers drive a pair of four-step sequencers at different rates. The rhythm wheels show when their pulses line up.
 
 <table align="left">
-  <tr><th scope="col">MPC Sample</th></tr>
-  <tr><td align="center"><a href="docs/previews/necronomicon.gif"><img src="docs/previews/necronomicon.gif" width="292" alt="Necronomicon on MPC Sample, liquid Light rhythm wheels showing the clock divisions"></a></td></tr>
+  <tr><th scope="col" width="319">MPC Sample</th></tr>
+  <tr><td align="center" width="319"><a href="docs/previews/necronomicon.gif"><img src="docs/previews/necronomicon.gif" alt="Necronomicon on MPC Sample. Liquid Light rhythm wheels showing the clock divisions"></a></td></tr>
 </table>
 <table align="left">
-  <tr><th scope="col">macOS &amp; Windows</th></tr>
-  <tr><td align="center"><a href="https://github.com/hdslave/hdslave-Necronomicon-Synth/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Necronomicon-Synth/main/mac-clap/assets/desktop-preview.gif" width="432" alt="Necronomicon on macOS &amp; Windows, oscillators, subharmonic dividers and rhythm wheels"></a></td></tr>
+  <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Necronomicon-Synth/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Necronomicon-Synth/main/mac-clap/assets/desktop-preview.gif" alt="Necronomicon on macOS and Windows. Oscillators, subharmonic dividers and rhythm wheels"></a></td></tr>
 </table>
 <br clear="all">
 
@@ -118,12 +118,12 @@ Program eight steps of pitch and velocity for two oscillators and noise. Hard sy
 </p>
 
 <table align="left">
-  <tr><th scope="col">MPC Sample</th></tr>
-  <tr><td align="center"><a href="docs/previews/anvil.gif"><img src="docs/previews/anvil.gif" width="292" alt="Anvil on MPC Sample, eight-step percussion sequencer and voice controls"></a></td></tr>
+  <tr><th scope="col" width="319">MPC Sample</th></tr>
+  <tr><td align="center" width="319"><a href="docs/previews/anvil.gif"><img src="docs/previews/anvil.gif" alt="Anvil on MPC Sample. Eight-step percussion sequencer and voice controls"></a></td></tr>
 </table>
 <table align="left">
-  <tr><th scope="col">macOS &amp; Windows</th></tr>
-  <tr><td align="center"><a href="https://github.com/hdslave/hdslave-Anvil-Synth/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Anvil-Synth/main/mac-clap/assets/desktop-preview.gif" width="432" alt="Anvil on macOS &amp; Windows, eight-step percussion sequence during playback"></a></td></tr>
+  <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Anvil-Synth/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Anvil-Synth/main/mac-clap/assets/desktop-preview.gif" alt="Anvil on macOS and Windows. Eight-step percussion sequence during playback"></a></td></tr>
 </table>
 <br clear="all">
 
@@ -132,12 +132,12 @@ Program eight steps of pitch and velocity for two oscillators and noise. Hard sy
 Each of the 16 pads has its own drum voice, with a choice of 808, 909 or 606 models. Shape each hit with bend, drive and envelopes. A separate kick output can key the hdslaveOS master compressor.
 
 <table align="left">
-  <tr><th scope="col">MPC Sample</th></tr>
-  <tr><td align="center"><a href="docs/previews/foundry.gif"><img src="docs/previews/foundry.gif" width="292" alt="Foundry on MPC Sample, x0X Drum Works pad triggers and hit timeline"></a></td></tr>
+  <tr><th scope="col" width="319">MPC Sample</th></tr>
+  <tr><td align="center" width="319"><a href="docs/previews/foundry.gif"><img src="docs/previews/foundry.gif" alt="Foundry on MPC Sample. X0X Drum Works pad triggers and hit timeline"></a></td></tr>
 </table>
 <table align="left">
-  <tr><th scope="col">macOS &amp; Windows</th></tr>
-  <tr><td align="center"><a href="https://github.com/hdslave/hdslave-Foundry-Drum-Machine/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Foundry-Drum-Machine/main/mac-clap/assets/desktop-preview.gif" width="432" alt="Foundry on macOS &amp; Windows, drum pads and individual voice controls during playback"></a></td></tr>
+  <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Foundry-Drum-Machine/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Foundry-Drum-Machine/main/mac-clap/assets/desktop-preview.gif" alt="Foundry on macOS and Windows. Drum pads and individual voice controls during playback"></a></td></tr>
 </table>
 <br clear="all">
 
@@ -146,12 +146,12 @@ Each of the 16 pads has its own drum voice, with a choice of 808, 909 or 606 mod
 Build a kick from its pitch sweep, harmonics, noise and decay. The Orbital Impact panel plots the pitch and amplitude curves as you play, so you can see where the attack ends and the low tail takes over.
 
 <table align="left">
-  <tr><th scope="col">MPC Sample</th></tr>
-  <tr><td align="center"><a href="docs/previews/moonbass.gif"><img src="docs/previews/moonbass.gif" width="292" alt="MoonBass on MPC Sample, orbital Impact pitch sweep and amplitude decay"></a></td></tr>
+  <tr><th scope="col" width="319">MPC Sample</th></tr>
+  <tr><td align="center" width="319"><a href="docs/previews/moonbass.gif"><img src="docs/previews/moonbass.gif" alt="MoonBass on MPC Sample. Orbital Impact pitch sweep and amplitude decay"></a></td></tr>
 </table>
 <table align="left">
-  <tr><th scope="col">macOS &amp; Windows</th></tr>
-  <tr><td align="center"><a href="https://github.com/hdslave/hdslave-MoonBass-Synth/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-MoonBass-Synth/main/mac-clap/assets/desktop-preview.gif" width="432" alt="MoonBass on macOS &amp; Windows, kick controls and Orbital Impact display"></a></td></tr>
+  <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-MoonBass-Synth/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-MoonBass-Synth/main/mac-clap/assets/desktop-preview.gif" alt="MoonBass on macOS and Windows. Kick controls and Orbital Impact display"></a></td></tr>
 </table>
 <br clear="all">
 
@@ -160,12 +160,12 @@ Build a kick from its pitch sweep, harmonics, noise and decay. The Orbital Impac
 Play eight hand strokes on nine modeled drum bodies, from tabla to iron bell. A wavefolding oscillator and low-pass gate shape the strike. Sequence the strokes with Euclidean rhythms, a Turing generator or one of the built-in rhythm patterns.
 
 <table align="left">
-  <tr><th scope="col">MPC Sample</th></tr>
-  <tr><td align="center"><a href="docs/previews/mystik.gif"><img src="docs/previews/mystik.gif" width="292" alt="Mystik on MPC Sample, hand drum, stroke and sequencer pages"></a></td></tr>
+  <tr><th scope="col" width="319">MPC Sample</th></tr>
+  <tr><td align="center" width="319"><a href="docs/previews/mystik.gif"><img src="docs/previews/mystik.gif" alt="Mystik on MPC Sample. Hand drum, stroke and sequencer pages"></a></td></tr>
 </table>
 <table align="left">
-  <tr><th scope="col">macOS &amp; Windows</th></tr>
-  <tr><td align="center"><a href="https://github.com/hdslave/hdslave-Mystik-Synth/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Mystik-Synth/main/mac-clap/assets/desktop-preview.gif" width="432" alt="Mystik on macOS &amp; Windows, percussion voices and sequencer during playback"></a></td></tr>
+  <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Mystik-Synth/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Mystik-Synth/main/mac-clap/assets/desktop-preview.gif" alt="Mystik on macOS and Windows. Percussion voices and sequencer during playback"></a></td></tr>
 </table>
 <br clear="all">
 
@@ -176,12 +176,12 @@ Play eight hand strokes on nine modeled drum bodies, from tabla to iron bell. A 
 Move through the eight corners of a stereo filter cube on three axes. Sequence changes across a bank of 64 filters, then watch the frequency response move in the waterfall display.
 
 <table align="left">
-  <tr><th scope="col">MPC Sample</th></tr>
-  <tr><td align="center"><a href="docs/previews/cortex-filter.gif"><img src="docs/previews/cortex-filter.gif" width="292" alt="Cortex Filter on MPC Sample, morphing filter cube and frequency-response waterfall"></a></td></tr>
+  <tr><th scope="col" width="319">MPC Sample</th></tr>
+  <tr><td align="center" width="319"><a href="docs/previews/cortex-filter.gif"><img src="docs/previews/cortex-filter.gif" alt="Cortex Filter on MPC Sample. Morphing filter cube and frequency-response waterfall"></a></td></tr>
 </table>
 <table align="left">
-  <tr><th scope="col">macOS &amp; Windows</th></tr>
-  <tr><td align="center"><a href="https://github.com/hdslave/hdslave-Cortex-Filter/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Cortex-Filter/main/mac-clap/assets/desktop-preview.gif" width="432" alt="Cortex Filter on macOS &amp; Windows, stereo filter controls, moving cube and response plot"></a></td></tr>
+  <tr><th scope="col" width="459">macOS &amp; Windows</th></tr>
+  <tr><td align="center" width="459"><a href="https://github.com/hdslave/hdslave-Cortex-Filter/blob/main/mac-clap/assets/desktop-preview.gif"><img src="https://raw.githubusercontent.com/hdslave/hdslave-Cortex-Filter/main/mac-clap/assets/desktop-preview.gif" alt="Cortex Filter on macOS and Windows. Stereo filter controls, moving cube and response plot"></a></td></tr>
 </table>
 <br clear="all">
 
