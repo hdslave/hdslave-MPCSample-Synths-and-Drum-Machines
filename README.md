@@ -18,7 +18,7 @@ git clone --recurse-submodules https://github.com/hdslave/hdslave-MPCSample-Synt
 
 hdslaveOS is a techno OS for the Akai MPC Sample, built on Melodee by Kerem Kiliç (Ellic Studio) and currently on Melodee v0.9.1. The plug-ins below draw their own screens in it, the kick can drive its master sidechain, and it keeps more processor headroom with bit-identical sound. [hdslaveOS](https://github.com/hdslave/hdslaveOS) · [Melodee](https://github.com/keremimo/melodee-sample)
 
-Choose the complete SD-card installer for hdslaveOS and all eleven plug-ins, or the standalone pack for the plug-ins alone. Both carry the plug-ins of hdslaveOS **0.9.1-hdslave.2**, including **Slink 0.9.0**, **Anvil 0.7.0**, **Foundry 0.7.0** and **Mystik 0.4.0**, whose pads now hold up to − / + (a drum map). The manifest lists all eleven source revisions and file hashes. [Complete installer and OS-only ZIP](https://github.com/hdslave/hdslaveOS/releases/latest) · [11-plug-in pack](https://github.com/hdslave/hdslave-MPCSample-Synths-and-Drum-Machines/releases/latest)
+Choose the complete SD-card installer for hdslaveOS and all eleven plug-ins, or the standalone pack for the plug-ins alone. Both carry the plug-ins of hdslaveOS **0.9.1-hdslave.3**, the same files as 0.9.1-hdslave.2's, including **Slink 0.9.0**, **Anvil 0.7.0**, **Foundry 0.7.0** and **Mystik 0.4.0**, whose pads now hold up to − / + (a drum map). The manifest lists all eleven source revisions and file hashes. [Complete installer and OS-only ZIP](https://github.com/hdslave/hdslaveOS/releases/latest) · [11-plug-in pack](https://github.com/hdslave/hdslave-MPCSample-Synths-and-Drum-Machines/releases/latest)
 
 hdslaveOS 0.8.1 screenshots.
 
