@@ -1,8 +1,6 @@
 # Notes for coding agents
 
-This repository gathers the hdslave projects for the Akai MPC Sample as git submodules:
-- the CLAP plug-ins, which follow their `main` branches;
-- hdslaveOS, which follows its `hdslave` branch.
+This repository gathers the hdslave synths, drum machines and effects for MPC Sample, SP-16, macOS and Windows. The plug-in submodules follow their `main` branches. The hdslaveOS submodule follows its `hdslave` branch.
 
 The README indexes them. Every project's own repository is the source of truth. This repository only records which commit of each one belongs together.
 
@@ -21,7 +19,7 @@ On the author's machine, this repository sits in one folder beside the projects'
 - **Add a project:**
   1. `git submodule add -b main <url> <Folder>`. Folder names have no spaces (`Cortex-Filter`).
   2. Set the commit identity inside the new submodule.
-  3. Add a README row in its section.
-  4. Update the plug-in count in the hdslaveOS paragraph.
+  3. Add a README entry in its section. Use labeled previews from published interfaces and link each preview to its full-size image. For an SP-16 release, include its wide panel and platform download.
+  4. Update the collection and platform counts in the README.
 - **Commits** are made as `hdslave <111106843+hdslave@users.noreply.github.com>`. Other agents push here too, so run `git pull --rebase` before you start. Never push without the owner's word.
 - **Names in the README.** Trademarked names appear only as "in the style of" in the README, with the trademark notice kept current.
